@@ -1,7 +1,3 @@
 # C++Projects
 
-In this repo I uploaded some projects of my CS classes I took at UCLA.
-
-
-
-To Carey Nachenberg and David Smallberg.
+In this repo I uploaded some C++ projects including some mini games and a mini uber eats.
